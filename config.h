@@ -14,6 +14,9 @@ static char *font = "Fira Code,Fira Code Retina:style=Retina,Regular:size=12:ant
 static char *font2[] = {
 	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true",
 	"Symbola:pixelsize=11:antialias=true:autohint=true",
+    "Font Awesome 6 Brands,Font Awesome 6 Brands Regular:style=Regular",
+    "Font Awesome 6 Free,Font Awesome 6 Free Solid:style=Solid",
+    "Font Awesome 6 Free,Font Awesome 6 Free Regular:style=Regular"
 };
 
 static int borderpx = 2;
