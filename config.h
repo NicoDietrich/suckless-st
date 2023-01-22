@@ -12,11 +12,12 @@ static char *font = "Fira Code,Fira Code Retina:style=Retina,Regular:size=12:ant
 /* static char *font = "Fira Code:style=Regular:size=12:antialias=true:autohint=true"; */
 /* static char *font = "Cascadia Code:style=Regular:size=12:antialias=true:autohint=true"; */
 static char *font2[] = {
+    "Noto Color Emoji:style=Regular",
 	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true",
 	"Symbola:pixelsize=11:antialias=true:autohint=true",
     "Font Awesome 6 Brands,Font Awesome 6 Brands Regular:style=Regular",
     "Font Awesome 6 Free,Font Awesome 6 Free Solid:style=Solid",
-    "Font Awesome 6 Free,Font Awesome 6 Free Regular:style=Regular"
+    "Font Awesome 6 Free,Font Awesome 6 Free Regular:style=Regular",
 };
 
 static int borderpx = 2;
